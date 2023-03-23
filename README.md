@@ -28,3 +28,5 @@ Mi experiencia en la seguridad informática se ha desarrollado a través de la s
 
 
 ✅ Open Source Intelligence
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniocampodonico/)
