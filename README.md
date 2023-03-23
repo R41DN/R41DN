@@ -10,9 +10,21 @@ Mi experiencia en la seguridad informática se ha desarrollado a través de la s
 ## 🛠 Habilidades
 
 ✅ Scripting
+
+
 ✅ Pentesting
+
+
 ✅ Cyber Threat Intelligence
+
+
 ✅ Linux
+
+
 ✅ Zero Trust
+
+
 ✅ Ethical Hacking
+
+
 ✅ Open Source Intelligence
