@@ -8,9 +8,9 @@
 
 ## $ whoami
 
-Red teamer with years of experience leading offensive security operations in high-demand environments. My work revolves around adversary simulation, penetration testing, and understanding the attacker's mindset to help organizations build stronger defenses.
+Offensive cybersecurity expert with experience leading operations in corporate environments. My work focuses on adversary simulation, penetration testing, and understanding attacker mindsets to help organizations strengthen their defenses.
 
-Currently leading offensive cybersecurity efforts in the financial sector, where the stakes are real and precision matters.
+I currently lead offensive cybersecurity initiatives in the financial sector, where risks are real and accuracy is critical.
 
 ---
 
@@ -20,7 +20,6 @@ Currently leading offensive cybersecurity efforts in the financial sector, where
 - Penetration Testing (Web, API, Mobile, Infrastructure)
 - OSINT & Cyber Threat Intelligence
 - TTPs Mapping (MITRE ATT&CK)
-- Scripting (Python, Bash, PowerShell)
 - PCI DSS & Compliance
 
 ---
